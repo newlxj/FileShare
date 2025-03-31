@@ -1,0 +1,42 @@
+[
+  {
+    "id": "201",
+    "name": "风景照.jpg222",
+    "path": "./static/201.jpg",
+    "size": 3145728,
+    "type": "jpg",
+    "addTime": "2023-10-13T10:20:00Z",
+    "isShared": false,
+    "directoryId": "2"
+  },
+  {
+    "id": "202",
+    "name": "家庭照.png",
+    "path": "./static/202.png",
+    "size": 4194304,
+    "type": "png",
+    "addTime": "2023-10-14T11:30:00Z",
+    "isShared": false,
+    "directoryId": "2"
+  },
+  {
+    "id": "301",
+    "name": "流行歌曲.mp3",
+    "path": "./static/301.mp3",
+    "size": 5242880,
+    "type": "mp3",
+    "addTime": "2023-10-12T15:40:00Z",
+    "isShared": true,
+    "directoryId": "3-1"
+  },
+  {
+    "id": "be50f499-299b-4a1a-8d13-e69aa43742c4",
+    "name": "a.png",
+    "path": "C:\\temp1\\2025\\20250329_112420\\中台检查\\a.png",
+    "size": 263482,
+    "type": "png",
+    "addTime": "2025-03-31 01:38:27",
+    "isShared": true,
+    "directoryId": "f739573b-d476-4b1a-828b-42c6b4bf0454"
+  }
+]

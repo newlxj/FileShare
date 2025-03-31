@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "文档",
+    "isShared": true,
+    "children": [
+      {
+        "id": "f739573b-d476-4b1a-828b-42c6b4bf0454",
+        "name": "子目录",
+        "parentId": "1",
+        "isShared": false,
+        "dirType": "link"
+      },
+      {
+        "id": "7102b97a-d59f-4fe8-a0d7-18f5ef072749",
+        "name": "右键添加目录",
+        "parentId": "1",
+        "isShared": false,
+        "dirType": "storage"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "图片",
+    "isShared": false,
+    "password": "555"
+  },
+  {
+    "id": "3",
+    "name": "音乐",
+    "isShared": false,
+    "children": [
+      {
+        "id": "3-1",
+        "name": "流行音乐",
+        "parentId": "3",
+        "isShared": true
+      }
+    ]
+  }
+]
