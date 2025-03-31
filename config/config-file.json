@@ -28,15 +28,5 @@
     "addTime": "2023-10-12T15:40:00Z",
     "isShared": true,
     "directoryId": "3-1"
-  },
-  {
-    "id": "be50f499-299b-4a1a-8d13-e69aa43742c4",
-    "name": "a.png",
-    "path": "C:\\temp1\\2025\\20250329_112420\\中台检查\\a.png",
-    "size": 263482,
-    "type": "png",
-    "addTime": "2025-03-31 01:38:27",
-    "isShared": true,
-    "directoryId": "f739573b-d476-4b1a-828b-42c6b4bf0454"
-  }
+  } 
 ]

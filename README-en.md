@@ -11,6 +11,7 @@ This system implements file sharing functionality, primarily designed for local 
 
 **Security Note**: When using as a server, disable the `linkDirAdd` option in `server.json` configuration to prevent security risks.
 
+ [Releases FileShare-V20250331 Download](https://github.com/newlxj/FileShare/releases/download/v1.0.0/FileShare-V20250331.zip)
 ## System Preview
 <img src="image/1share.png" width="70%" />  
 <img src="image/2login.png" width="70%" />  

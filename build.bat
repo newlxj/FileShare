@@ -2,6 +2,7 @@
 setlocal enabledelapsedexpansion
 echo 正在构建前端...
 cd frontend
+call npm install
 call npm run build
 cd ..
 rmdir /s /q backend\web
@@ -18,13 +19,12 @@ powershell -Command "$files = @('%htmlFile%') + (gci '%jsPattern%').FullName; fo
 echo 文件内容已成功替换！
 
 
-
 echo 正在构建后端...
 cd backend
 go build -o ../fileShare.exe
 cd ..
-fileShare.exe
-
 
 echo 构建完成！
 echo 可以直接运行 fileShare.exe 启动应用
+fileShare.exe
+

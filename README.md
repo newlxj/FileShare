@@ -8,6 +8,7 @@
 
    如果你下载已经制作好的exe直接运行就可以，目前由于只有Windows环境，只打包了windows版本，支持linux、mac等多系统，需要自己去编译。
 
+   [Windows打包版本下载 FileShare-V20250331 ](https://github.com/newlxj/FileShare/releases/download/v1.0.0/FileShare-V20250331.zip)
 ## 运行截图
 
 <img src=image/1share.png width=70% />
